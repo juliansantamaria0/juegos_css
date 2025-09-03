@@ -1,3 +1,6 @@
+# 🎮 Autor
+Julian Andres Santamaria Bustamante
+
 # 🎮 Documentación de Juegos Completados
 
 Documentación completa de la experiencia de juego y progreso alcanzado en dos juegos web interactivos.
@@ -29,23 +32,14 @@ Un juego de plataformas donde el jugador controla una rana que debe navegar a tr
 - **Total de Niveles**: 24 niveles únicos
 - **Estado de Completación**: ✅ COMPLETADO
 - **Dificultad Experimentada**: Progresiva, desde básica hasta muy desafiante
-- **Mecánicas Principales**: Salto, navegación de plataformas, evitar obstáculos
-
-### Progresión Documentada
-- **Niveles 1-8**: Aprendizaje de mecánicas básicas
-- **Niveles 9-16**: Introducción de nuevos obstáculos y desafíos
-- **Niveles 17-24**: Niveles avanzados que requieren precisión y timing perfecto
-- **Nivel Final**: Completación exitosa de todos los desafíos
 
 ### Evidencia de Completación
 ![Juego de la Rana Completado](https://i.ibb.co/1G4j9hSc/Final.png)
-*Pantalla final mostrando la completación exitosa del juego*
 
 ### Documentación Completa
 📁 **Carpeta de Evidencias Completas**: [Drive - Juego de la Rana](https://drive.google.com/drive/folders/1ZfS5BFJ82qF6vfcqn6eSr_Sgw7yNvjdn)
 - Contiene capturas de pantalla de todos los 24 niveles
 - Evidencia paso a paso del progreso
-- Pantallas de transición entre niveles
 - Documentación visual completa de la experiencia
 
 ## 🧟 Juego de Zombies
@@ -57,11 +51,10 @@ Un juego de supervivencia narrativo ambientado en un escenario post-apocalíptic
 - **Total de Capítulos**: 12 capítulos narrativos
 - **Estado de Completación**: ✅ COMPLETADO
 - **Género**: Supervivencia
-- **Mecánicas Principales**: Supervivencia
 
 ### Evidencia de Completación
 ![Juego de Zombies Completado](https://i.ibb.co/Qj7KhM2B/capitulo-12-evidencia.png)
-*Evidencia de completación del capítulo 12 (capítulo final)*
+
 
 ### Documentación Completa
 📁 **Carpeta de Evidencias Completas**: [Drive - Juego de Zombies](https://drive.google.com/drive/folders/1aku3ubzM8D1Y_ICr8NQygwb09wuNHw3V)
@@ -88,7 +81,7 @@ Un juego de supervivencia narrativo ambientado en un escenario post-apocalíptic
 **Juego de la Rana:**
 - Mecánicas de física bien implementadas para el movimiento de la rana
 - Diseño progresivo de niveles que enseña gradualmente las mecánicas
-- Interfaz clara y responsive
+- Interfaz clara 
 - Sistema de checkpoints efectivo
 
 **Juego de Zombies:**
