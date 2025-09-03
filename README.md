@@ -7,12 +7,12 @@ Documentación completa de la experiencia de juego y progreso alcanzado en dos j
 
 ## 📋 Índice
 
-- [Resumen de Logros](#resumen-de-logros)
-- [Juego de la Rana](#-juego-de-la-rana)
-- [Juego de Zombies](#-juego-de-zombies)
-- [Evidencias Visuales](#evidencias-visuales)
-- [Análisis de Experiencia](#análisis-de-experiencia)
-- [Conclusiones](#conclusiones)
+- [Resumen de Logros](#Resumen-de-Logros)
+- [Juego de la Rana](#-Juego-de-la-Rana)
+- [Juego de Zombies](#-Juego-de-Zombies)
+- [Evidencias Visuales](#Evidencias-Visuales)
+- [Análisis de Experiencia](#Analisis-de-Experiencia)
+- [Conclusiones](#Conclusiones)
 
 ## 🏆 Resumen de Logros
 
@@ -33,7 +33,7 @@ Un juego de plataformas donde el jugador controla una rana que debe navegar a tr
 - **Estado de Completación**: ✅ COMPLETADO
 - **Dificultad Experimentada**: Progresiva, desde básica hasta muy desafiante
 
-### Evidencia de Completación
+### Evidencia de Completado
 ![Juego de la Rana Completado](https://i.ibb.co/1G4j9hSc/Final.png)
 
 ### Documentación Completa
@@ -52,7 +52,7 @@ Un juego de supervivencia narrativo ambientado en un escenario post-apocalíptic
 - **Estado de Completación**: ✅ COMPLETADO
 - **Género**: Supervivencia
 
-### Evidencia de Completación
+### Evidencia de Completado
 ![Juego de Zombies Completado](https://i.ibb.co/Qj7KhM2B/capitulo-12-evidencia.png)
 
 
@@ -74,7 +74,7 @@ Un juego de supervivencia narrativo ambientado en un escenario post-apocalíptic
 - **Juego de la Rana**: [Ver todas las capturas](https://drive.google.com/drive/folders/1ZfS5BFJ82qF6vfcqn6eSr_Sgw7yNvjdn)
 - **Juego de Zombies**: [Ver todas las capturas](https://drive.google.com/drive/folders/1aku3ubzM8D1Y_ICr8NQygwb09wuNHw3V)
 
-## 📊 Análisis de Experiencia
+## 📊 Analisis de Experiencia
 
 ### Aspectos Técnicos Observados
 
