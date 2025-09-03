@@ -30,7 +30,7 @@ Un juego de plataformas donde el jugador controla una rana que debe navegar a tr
 
 ### Experiencia de Juego
 - **Total de Niveles**: 24 niveles únicos
-- **Estado de Completación**: ✅ COMPLETADO
+- **Estado**: ✅ COMPLETADO
 - **Dificultad Experimentada**: Progresiva, desde básica hasta muy desafiante
 
 ### Evidencia de Completado
@@ -49,7 +49,7 @@ Un juego de supervivencia narrativo ambientado en un escenario post-apocalíptic
 
 ### Experiencia de Juego
 - **Total de Capítulos**: 12 capítulos narrativos
-- **Estado de Completación**: ✅ COMPLETADO
+- **Estado**: ✅ COMPLETADO
 - **Género**: Supervivencia
 
 ### Evidencia de Completado
@@ -62,12 +62,12 @@ Un juego de supervivencia narrativo ambientado en un escenario post-apocalíptic
 
 ## 📸 Evidencias Visuales
 
-### Evidencias Principales de Completación
+### Evidencias Principales 
 
 | Juego | Evidencia Final | Descripción |
 |-------|----------------|-------------|
 | 🐸 Juego de la Rana | ![Final Rana](https://i.ibb.co/1G4j9hSc/Final.png) | Pantalla de victoria tras completar los 24 niveles |
-| 🧟 Juego de Zombies | ![Final Zombies](https://i.ibb.co/Qj7KhM2B/capitulo-12-evidencia.png) | Evidencia de completación del capítulo final |
+| 🧟 Juego de Zombies | ![Final Zombies](https://i.ibb.co/Qj7KhM2B/capitulo-12-evidencia.png) | Evidencia de completado capítulo final |
 
 ### Documentación Completa Disponible
 
@@ -103,7 +103,7 @@ Un juego de supervivencia narrativo ambientado en un escenario post-apocalíptic
 ## ✅ Conclusiones
 
 ### Logros Alcanzados
-- **100% de completación** en ambos juegos
+- **100% completado** en ambos juegos
 - **Documentación exhaustiva** del progreso y experiencia
 - **Evidencia verificable** de todos los logros conseguidos
 - **Análisis detallado** de mecánicas y experiencia de usuario
